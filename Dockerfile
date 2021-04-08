@@ -1,5 +1,6 @@
 # FROM node:carbon
-FROM node:10-alpine
+# FROM node:10-alpine
+FROM 078315305056.dkr.ecr.us-east-1.amazonaws.com/internalnode
 
 
 # Create app directory
